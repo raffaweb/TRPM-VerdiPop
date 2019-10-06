@@ -7,7 +7,7 @@ python -m sphinx -E sito docs
 rm -rf .doctrees/
 rm -rf _sources/
 rm -f ./genindex.html
-find -name \*.html | cut -d/ -f2 | sed 's|^|https://raffaellamigliaccio.it/vdsp|' > ./sitemap.txt
+find -name \*.html | cut -d/ -f2 | sed 's|^|https://raffaellamigliaccio.it/|' > ./sitemap.txt
     (
         echo 'User-agent: *' && \
         find -maxdepth 1 -name _\* | cut -d/ -f2 | sed 's|^\(.*\)|Disallow: /\1/|' && \
