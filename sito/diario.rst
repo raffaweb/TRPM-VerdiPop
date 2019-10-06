@@ -1,12 +1,14 @@
 Diario delle lezioni
 ====================
 
+
 Le seguenti sigle sono da intendersi come segue:
 
 * **SC**: *solfeggio cantato*,
 * **SP**: *solfeggio parlato*,
 * **SR**: *solfeggio ritmico*,
 
+Per il materiale non appartenente a nessun libro leggere la sezione :doc:`informazioni <info>`.
 
 .. table:: 
 

@@ -4,13 +4,8 @@
 
 Teoria e Solfeggio 
 ******************
-Questo è un sito web **non ufficiale** dove inserirò volta per volta gli
+Questo è un sito web **non ufficiale** dove inserirò (nella sezione :doc:`diario <diario>`) volta per volta gli
 argomenti svolti e gli esercizi assegnati a lezione.
-
-|
-
-*"Metromomo è come moglie. Lei parla, tu stare zitto"*
-
 
 .. toctree::
    :hidden:
