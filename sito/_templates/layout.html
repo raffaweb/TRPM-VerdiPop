@@ -101,18 +101,13 @@
 </footer>
 <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-377250-23"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149453393-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
-  gtag('config', '211964738');
-  $(document).ready(function() {
-      $('p > img').addClass('mx-auto d-block');
-      $('.tocnav a').addClass('dropdown-item');
-      $('.tocnav ul').css('list-style-type', 'none');
-      $('.tocnav > ul').css('padding', '0');
-  });
+
+  gtag('config', 'UA-149453393-1');
 </script>
 <script type="application/ld+json">
 {
@@ -123,9 +118,6 @@
     "@id": "https://google.com/article"
   },
   "headline": "{{title}}",
-  "image": [
-    "https://prog2.di.unimi.it/{{ pathto('_static/logo.png', 1) }}"
-   ],
   "datePublished": "{{iso_now}}",
   "dateModified": "{{iso_now}}",
   "author": {
