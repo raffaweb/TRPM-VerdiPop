@@ -8,7 +8,7 @@ Diario delle lezioni
    | Num   | Data       | Argomento                                                    | Esercizi assegnati                                                        |
    +=======+============+==============================================================+===========================================================================+
    | [1]   | Sab 5/10   | Rapporto tra tempi semplici e composti                       | * Solfeggio ritmico 'ritmico 1',                                          |
-   |       |            |                                                              | * Solfeggio ritmico 'ritmico 2' deve invece essere svolto seguendo le     |
+   |       |            |                                                              | * Solfeggio ritmico 'ritmico 2' deve essere svolto seguendo le            |
    |       |            |                                                              |   indicazioni di tempo specificate e l'ordine indicato sulla destra,      |
    |       |            |                                                              | * Solfeggio cantato: **n.68** `Poltronieri primo corso`, **n.1,2**        |
    |       |            |                                                              |   `Poltronieri secondo corso`.                                            |
