@@ -1,0 +1,140 @@
+{% extends 'basic/layout.html' %}
+
+{%- macro vscript() %}
+    <script src="{{ pathto('_static/documentation_options.js', 1) }}"></script>
+    {%- for scriptfile in script_files %}
+    <script src="{{ pathto(scriptfile, 1) }}"></script>
+    {%- endfor %}
+{%- endmacro %}
+
+{%- block scripts %}
+   {{- vscript() }}
+{%- endblock %}
+
+{%- block extrahead %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content="Sito web non ufficiale dell'insegnamento di Teoria e Solfeggio presso la classe di Pop del conservatorio di Milano.">
+
+<!-- Verification for Google search -->
+<meta name="google-site-verification" content="OEmY0pq_idloSTRBHPIzXfeBIAFcMDmzlTU539vTkiU">
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function () {
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#eaf7f7",
+          "text": "#5c7291"
+        },
+        "button": {
+          "background": "#56cbdb",
+          "text": "#ffffff"
+        }
+      },
+      "position": "bottom-right",
+      "content": {
+        "message": "Questo sito utilizza cookie per raccogliere informazioni, in forma aggregata, sul numero degli utenti.",
+        "dismiss": "Va bene!",
+        "link": "Maggiori informazioni.",
+        "href": "http://www.unimi.it/62210.htm"
+      }
+    })
+  });
+</script>
+{% endblock %}
+
+{%- block css %}
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.0/lumen/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ pathto('_static/custom.css', 1) }}" type="text/css">
+    <link rel="stylesheet" href="{{ pathto('_static/pygments.css', 1) }}" type="text/css">
+    {{ super() }}
+{%- endblock %}
+
+
+{%- block document %}
+    <main class="container">
+        {% block body %}{% endblock %}
+    </main>
+{%- endblock %}
+
+{%- block relbar1 %}
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="index.html">TRPM@VerdiPop</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarColor03">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="info.html">Informazioni</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="diario.html">Diario</a>
+      </li>
+      {% if display_toc %}
+      <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="far fa-list-alt"></i>
+          </a>
+          <div class="dropdown-menu tocnav" aria-labelledby="navbarDropdown2">
+          {{toc}}
+          </div>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</nav>
+{% endblock %}
+
+{%- block relbar2 %}{% endblock %}
+
+{%- block footer %}
+<footer class="footer">
+  <div class="container">
+      <a href="http://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="License: GPL v3"></a>
+      <a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg" alt="License: CC BY-SA 4.0"></a>
+      <span class="float-right">© Raffaella Migliaccio 2019 - {{last_updated}}</span>
+  </div>
+</footer>
+<script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-377250-23"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-19887129-3');
+  $(document).ready(function() {
+      $('p > img').addClass('mx-auto d-block');
+      $('.tocnav a').addClass('dropdown-item');
+      $('.tocnav ul').css('list-style-type', 'none');
+      $('.tocnav > ul').css('padding', '0');
+  });
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://google.com/article"
+  },
+  "headline": "{{title}}",
+  "image": [
+    "https://prog2.di.unimi.it/{{ pathto('_static/logo.png', 1) }}"
+   ],
+  "datePublished": "{{iso_now}}",
+  "dateModified": "{{iso_now}}",
+  "author": {
+    "@type": "Person",
+    "name": "Raffaella Migliaccio"
+  },
+  "description": "Questo è un sito web non ufficiale dove inserirò volta per volta gli
+argomenti svolti e gli esercizi assegnati a lezione di Teoria e Solfeggio per la classe Pop del Conservatorio 'G.Verdi' di Milano"
+
+}
+</script>
+{%- endblock %}
