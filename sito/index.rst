@@ -1,5 +1,5 @@
 .. image:: _static/metronomo.png
-   :scale: 25%
+   :scale: 40%
    :align: left
 
 Teoria e Solfeggio 

@@ -1,16 +1,22 @@
 Diario delle lezioni
 ====================
 
+Le seguenti sigle sono da intendersi come segue:
+
+* SC: solfeggio cantato
+* SP: solfeggio paralato
+* SR: solfeggio ritmico
+
 
 .. table:: 
 
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------------+
    | Num   | Data       | Argomento                                                    | Esercizi assegnati                                                        |
    +=======+============+==============================================================+===========================================================================+
-   | [1]   | Sab 5/10   | Rapporto tra tempi semplici e composti                       | * Solfeggio ritmico 'ritmico 1',                                          |
-   |       |            |                                                              | * Solfeggio ritmico 'ritmico 2' deve essere svolto seguendo le            |
+   | [1]   | Sab 5/10   | Rapporto tra tempi semplici e composti                       | * **SR**: *ritmico 1*,                                                    |
+   |       |            |                                                              | * **SR**: *ritmico 2* deve essere svolto seguendo le                      |
    |       |            |                                                              |   indicazioni di tempo specificate e l'ordine indicato sulla destra,      |
-   |       |            |                                                              | * Solfeggio cantato: **n.68** `Poltronieri primo corso`, **n.1,2**        |
+   |       |            |                                                              | * **SC**: **n.68** `Poltronieri primo corso`, **n.1,2**                   |
    |       |            |                                                              |   `Poltronieri secondo corso`.                                            |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------------+
    | 2     |            |                                                              |                                                                           |
