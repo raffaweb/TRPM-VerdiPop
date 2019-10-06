@@ -9,7 +9,7 @@ argomenti svolti e gli esercizi assegnati a lezione.
 
 |
 
-*"Metromomo è come moglie. Lei parla parla, tu stare zitto"*
+*"Metromomo è come moglie. Lei parla, tu stare zitto"*
 
 
 .. toctree::
