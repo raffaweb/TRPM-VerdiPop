@@ -3,9 +3,9 @@ Diario delle lezioni
 
 Le seguenti sigle sono da intendersi come segue:
 
-* SC: solfeggio cantato
-* SP: solfeggio paralato
-* SR: solfeggio ritmico
+* SC: *solfeggio cantato*,
+* SP: *solfeggio parlato*,
+* SR: *solfeggio ritmico*,
 
 
 .. table:: 
