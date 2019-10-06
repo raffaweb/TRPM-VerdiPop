@@ -16,8 +16,9 @@ Le seguenti sigle sono da intendersi come segue:
    | [1]   | Sab 5/10   | Rapporto tra tempi semplici e composti                       | * **SR**: *ritmico 1*,                                                    |
    |       |            |                                                              | * **SR**: *ritmico 2* deve essere svolto seguendo le                      |
    |       |            |                                                              |   indicazioni di tempo specificate e l'ordine indicato sulla destra,      |
-   |       |            |                                                              | * **SC**: **n.68** `Poltronieri primo corso`, **n.1,2**                   |
-   |       |            |                                                              |   `Poltronieri secondo corso`.                                            |
+   |       |            |                                                              | * **SC**: *n.68* `Poltronieri primo corso`, *n.1,2*                       |
+   |       |            |                                                              |   `Poltronieri secondo corso`,                                            |
+   |       |            |                                                              | * **SP**: *n.44,52,53,55,64,68* `Poltronieri primo corso`.                |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------------+
    | 2     |            |                                                              |                                                                           |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------------+
