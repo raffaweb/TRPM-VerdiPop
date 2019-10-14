@@ -22,7 +22,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
    |       |            |                                                              |   `Poltronieri secondo corso`,                                            |
    |       |            |                                                              | * **SP**: *n.44,52,53,55,64,68* `Poltronieri primo corso`.                |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------------+
-   | 2     |            |                                                              |                                                                           |
+   | [2]   | Lun 14/10  | Dettato melodico, solfeggio cantato                          | * *Intonare* tutto quello che sentiamo                                    |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------------+
 
 |
