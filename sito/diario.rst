@@ -24,11 +24,13 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------------+
    | [2]   | Lun 14/10  | Dettato melodico, solfeggio cantato                          | * *Intonare* tutto quello che sentiamo                                    |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------------+
+   | [3]   | Mar 15/10  | Ripasso per esame                                            | * **SP**: *n.53 59 61 65 66* `Poltronieri primo corso`.                |
+   +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------------+
 
-|
 
 .. admonition:: Nota bene
    :class: alert alert-secondary
 
    I numeri di lezione all'interno di parentesi quadre sono delle lezioni
    extra che non fanno parte del monte ore dell'A.A. 2019/2020.
+   
