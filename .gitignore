@@ -1,4 +1,5 @@
 docs/
 venv/
+howto.md
 .vscode/
 Pipfile*

@@ -1,6 +1,6 @@
 ## Info
 
-Ecco alcuni siti utili per svolgere esercizi di Ear Training:
+Ecco alcuni siti utili per svolgere esercizi di Ear Training, dettati, etc:
 * [Music theory](https://www.musictheory.net/)
 * [Solfeggio in rete](http://solfeggioinrete.altervista.org/)
 
