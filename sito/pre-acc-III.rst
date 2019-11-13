@@ -13,7 +13,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
 
     +-----+-------+--------------+---------------------------------------------------+
     | Num | Data  |  Argomento   |              Esercizi assegnati                   |
-    +=====+=======+=============+====================================================+
+    +=====+=======+==============+===================================================+
     |  1  | 06/11 | Abbellimenti | * **SP**: *45,47,49* `Pozzoli secondo corso`      |
     |     |       |              | * **SP**: *1,2,3,4,5* `Poltronieri secondo corso` |
     |     |       |              | * **SC**: *1,2,3,4,5* `Poltronieri secondo corso` |
