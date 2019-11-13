@@ -1,5 +1,5 @@
-Diario delle lezioni
-====================
+Diario dei compiti
+==================
 
 Le seguenti sigle sono da intendersi come segue:
 
@@ -11,12 +11,14 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
 
 .. table:: 
 
-    +-----+-------+--------------+---------------------------------------------------+
-    | Num | Data  |  Argomento   |              Esercizi assegnati                   |
-    +=====+=======+==============+===================================================+
-    |  1  | 06/11 | Abbellimenti | * **SP**: *45,47,49* `Pozzoli secondo corso`      |
-    |     |       |              | * **SP**: *1,2,3,4,5* `Poltronieri secondo corso` |
-    |     |       |              | * **SC**: *1,2,3,4,5* `Poltronieri secondo corso` |
-    +-----+-------+--------------+---------------------------------------------------+
-
-
+    +-----+-------+--------------+----------------------------------------------------------+
+    | Num | Data  |  Argomento   |                    Esercizi assegnati                    |
+    +=====+=======+==============+==========================================================+
+    | 1   | 06/11 | Abbellimenti | * **SP**: *45,47,49* `Pozzoli secondo corso`             |
+    |     |       |              | * **SP**: *1,2,3,4,5* `Poltronieri secondo corso`        |
+    |     |       |              | * **SC**: *1,2,3,4,5* `Poltronieri secondo corso`        |
+    +-----+-------+--------------+----------------------------------------------------------+
+    | 2   | 13/11 |              | * **SP**: *6,10,13* `Poltronieri secondo corso`          |
+    |     |       |              | * **SC**: *6,7,8* `Poltronieri secondo corso - una voce` |
+    |     |       |              | * **SC**: *4,5,6* `Poltronieri secondo corso - due voci` |
+    +-----+-------+--------------+----------------------------------------------------------+

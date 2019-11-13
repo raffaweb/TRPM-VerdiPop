@@ -1,5 +1,5 @@
-Diario delle lezioni
-====================
+Diario dei compiti
+==================
 
 Le seguenti sigle sono da intendersi come segue:
 
