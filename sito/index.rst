@@ -2,8 +2,8 @@
    :scale: 50%
    :align: left
 
-Teoria e Solfeggio 
-******************
+#VittimeDelSolfeggio
+********************
 Questo è un sito web **non ufficiale** dove inserirò volta per volta gli esercizi assegnati a lezione.
 Per dubbi e chiarimenti mi trovate in giro per il conservatorio (:
 
