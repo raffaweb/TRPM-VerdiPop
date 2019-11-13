@@ -4,8 +4,7 @@
 
 Teoria e Solfeggio 
 ******************
-Questo è un sito web **non ufficiale** dove inserirò volta per volta gli
-argomenti svolti e gli esercizi assegnati a lezione.
+Questo è un sito web **non ufficiale** dove inserirò volta per volta gli esercizi assegnati a lezione.
 Per dubbi e chiarimenti mi trovate in giro per il conservatorio (:
 
 Da questa pagina potete accedere al diario dei compiti per le classi di:
