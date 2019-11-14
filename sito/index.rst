@@ -1,5 +1,5 @@
 .. image:: _static/metronomo.png
-   :scale: 50%
+   :scale: 60%
    :align: left
 
 #VittimeDelSolfeggio
@@ -9,10 +9,12 @@ Per dubbi e chiarimenti mi trovate in giro per il conservatorio (:
 
 Da questa pagina potete accedere al diario dei compiti per le classi di:
 
+* :doc:`recupero <recupero>`,
+* :doc:`pop I corso <pop-I>`,
 * :doc:`pop II corso <pop-II>`,
 * :doc:`pre Accedemico II <pre-acc-II>`,
 * :doc:`pre Accedemico III <pre-acc-III>`,
-* a breve le altre classi :-)
+
 
 
 .. toctree::
@@ -21,6 +23,7 @@ Da questa pagina potete accedere al diario dei compiti per le classi di:
    :maxdepth: 2
 
    info
+   recupero
    pop-I
    pop-II
    pre-acc-II
