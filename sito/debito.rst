@@ -17,4 +17,5 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 1   | 07/11 |           |                                                   |
     +-----+-------+-----------+---------------------------------------------------+
     | 2   | 14/11 |           | * **SC**: *dal n.1 al n.16* `Pozzoli primo corso` |
+    |     |       |           | * **SP**: *n.20,21,22* `Pozzoli primo corso`      |
     +-----+-------+-----------+---------------------------------------------------+
