@@ -13,8 +13,8 @@ import datetime
 
 # -- Project information -----------------------------------------------------
 
-project = 'TRPM2@VerdiPop'
-copyright = '2018, Raffaella Migliaccio'
+project = 'VittimeDelSolfeggio'
+copyright = '2019, Raffaella Migliaccio'
 author = 'Raffaella Migliaccio'
 
 version = ''
