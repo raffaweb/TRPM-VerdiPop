@@ -11,10 +11,10 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
 
 .. table:: 
 
-    +-----+-------+-----------+--------------------+---------------------------------------------+
-    | Num | Data  | Argomento | Esercizi assegnati |                                             |
-    +=====+=======+===========+====================+=============================================+
-    | 3   | 27/11 |           |                    | * imparare a memoria valori ritmici         |
-    |     |       |           |                    | * **SP**: *da 5 a 15* `Pozzoli primo corso` |
-    |     |       |           |                    | * **SC**: *da 5 a 15* `Pozzoli primo corso` |
-    +-----+-------+-----------+--------------------+---------------------------------------------+
+    +-----+-------+---------------------------------------------+-----+
+    | Num | Data  |             Esercizi assegnati              |     |
+    +=====+=======+=============================================+=====+
+    | 3   | 27/11 | * imparare a memoria valori ritmici         |     |
+    |     |       | * **SP**: *da 5 a 15* `Pozzoli primo corso` |     |
+    |     |       | * **SC**: *da 5 a 15* `Pozzoli primo corso` |     |
+    +-----+-------+---------------------------------------------+-----+
