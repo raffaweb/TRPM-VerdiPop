@@ -14,6 +14,7 @@ Da questa pagina potete accedere al diario dei compiti per le classi di:
 * :doc:`pop II corso <pop-II>`,
 * :doc:`pre Accedemico II <pre-acc-II>`,
 * :doc:`pre Accedemico III <pre-acc-III>`,
+* :doc:`pre Propedeutico <pre-prop>`,
 
 
 
@@ -28,3 +29,5 @@ Da questa pagina potete accedere al diario dei compiti per le classi di:
    pop-II
    pre-acc-II
    pre-acc-III
+   prop
+   pre-prop
