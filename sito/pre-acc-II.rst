@@ -21,4 +21,8 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 3   | 27/11 | * **SP**: *n.21* `Pozzoli secondo corso` minima = 90 BPM |
     |     |       | * **SP**: *n.35* `Pozzoli secondo corso` minima = 90 BPM |
     |     |       | * **SP**: *n.1 e 4* `Poltronieri secondo corso`          |
+    |     |       | * **SP** del 13/11                                       |
+    +-----+-------+----------------------------------------------------------+
+    | 4   | 4/12  | * **SP** tutti quelli del 13/11 e del 27/11              |
+    |     |       | * **SC**: *1,2,3* `Pozzoli secondo corso`                |
     +-----+-------+----------------------------------------------------------+

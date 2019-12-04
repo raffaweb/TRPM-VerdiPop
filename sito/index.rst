@@ -1,5 +1,5 @@
 .. image:: _static/metronomo.png
-   :scale: 60%
+   :scale: 65%
    :align: left
 
 #VittimeDelSolfeggio
@@ -15,6 +15,7 @@ Da questa pagina potete accedere al diario dei compiti per le classi di:
 * :doc:`pre Accedemico II <pre-acc-II>`,
 * :doc:`pre Accedemico III <pre-acc-III>`,
 * :doc:`pre Propedeutico <pre-prop>`,
+* :doc:`Propedeutico <prop>`,
 
 
 
