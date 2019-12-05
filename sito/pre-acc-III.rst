@@ -26,3 +26,4 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 3   | 27/11 | * **SP**: *6,10,13 (ad 80 senza sudd),17* `Poltronieri secondo corso` (chiave sol e fa) |
     |     |       | * **SC**: *1,2,3,4* `Poltronieri secondo corso - due voci`                              |
     +-----+-------+-----------------------------------------------------------------------------------------+
+    

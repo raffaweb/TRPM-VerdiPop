@@ -21,3 +21,4 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     +-----+-------+----------------------------------------------------+
     | 3   | 28/11 | * **SC**: *dal n.30 al n.35* `Pozzoli primo corso` |
     +-----+-------+----------------------------------------------------+
+
