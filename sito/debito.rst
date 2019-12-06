@@ -21,4 +21,6 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     +-----+-------+----------------------------------------------------+
     | 3   | 28/11 | * **SC**: *dal n.30 al n.35* `Pozzoli primo corso` |
     +-----+-------+----------------------------------------------------+
-
+    | 4   | 05/12 | * **SC**: *dal n.38 al n.40* `Pozzoli primo corso` |
+    |     |       | * **SR**: *ritmico 3*                              |
+    +-----+-------+----------------------------------------------------+
