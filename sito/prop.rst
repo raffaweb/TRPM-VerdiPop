@@ -19,3 +19,6 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 4   | 4/12  | * **SP**: *da 20 al 35* `Pozzoli primo corso` con metronomono che batte la suddivisione, il movimento, la misura. |
     |     |       | * **SC**: *da 13 a 22* e *da 31 a 33* `Pozzoli primo corso`                                                       |
     +-----+-------+-------------------------------------------------------------------------------------------------------------------+
+    | 5   | 11/12 | * **SP**: *da 41 a 47* `Pozzoli primo corso`                                                                      |
+    |     |       | * **SC**: *da 34 a 40* `Pozzoli primo corso`                                                                      |
+    +-----+-------+-------------------------------------------------------------------------------------------------------------------+

@@ -29,3 +29,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 4   | 05/12 | * **SP**: *n.13 (ad 80 senza sudd),17,21* `Poltronieri secondo corso` (da pag.49)   |
     |     |       | * **SC**: *n.5* `Poltronieri secondo corso - due voci`                              |
     +-----+-------+-------------------------------------------------------------------------------------+
+    | 5   | 11/12 | * **SP**: *n.25 (bpm mov: da 40 a 60), 28* `Poltronieri secondo corso` (da pag.49)  |
+    |     |       | * **SC**: *n.5* `Poltronieri secondo corso - due voci`                              |
+    |     |       | * **extra**: studia gli abbellimenti e spiegali                                     |
+    +-----+-------+-------------------------------------------------------------------------------------+
