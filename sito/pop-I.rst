@@ -25,3 +25,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 4   | 05/12 | * **SC**: *n.35, 38, 43, 48, 50* `Pozzoli primo corso` |
     |     |       | * **SP**: *dal n.46 al n.49* `Pozzoli primo corso`     |
     +-----+-------+--------------------------------------------------------+
+    | 5   | 12/12 | * **SC**: *n.35, 38, 43, 48, 41* `Pozzoli primo corso` |
+    |     |       | * * **SC**: *n.1,2,3,4* `Pozzoli due voci`             |
+    |     |       | * **SP**: *dal n.46 al n.49* `Pozzoli primo corso`     |
+    +-----+-------+--------------------------------------------------------+

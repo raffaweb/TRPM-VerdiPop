@@ -26,3 +26,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 4   | 4/12  | * **SP** tutti quelli del 13/11 e del 27/11              |
     |     |       | * **SC**: *1,2,3* `Pozzoli secondo corso`                |
     +-----+-------+----------------------------------------------------------+
+    | 5   | 11/12 | * **SP**: *3,9,16,22,26,31,36* `Pozzoli secondo corso`   |
+    |     |       | * **SC**: *3,4,5* `Pozzoli secondo corso`                |
+    |     |       | * **SP**: *n.1 e 4* `Poltronieri secondo corso`          |
+    +-----+-------+----------------------------------------------------------+

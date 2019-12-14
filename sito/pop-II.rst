@@ -32,8 +32,12 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SP**: *n.1,4,5* `Poltronieri secondo corso`                                                                        |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
     | 7   | 05/12 | * **SR**: *ritmico3*                                                                                                   |
-    |     |       | * **SP**: *n.1,4,5* `Poltronieri secondo corso pag.49`                                                                 |
-    |     |       | * **SC**: *cantato1*                                                                                                   |
+    |     |       | * **SP**: *n.1,4,5* `Poltronieri secondo corso (pag.49)`                                                               |
+    |     |       | * **SC**: *n.1,2,3* `Pozzoli due voci`                                                                                 |
+    +-----+-------+------------------------------------------------------------------------------------------------------------------------+
+    | 8   | 12/12 | * **SP**: *n.2 e 6* `Poltronieri secondo corso (pag.49)`                                                               |
+    |     |       | * **SC**: *n.8,9,10* `Pozzoli due voci`                                                                                |
+    |     |       | * **SP**: *n.1* `Appendice al terzo corso`                                                                             |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
 
 .. admonition:: Nota bene

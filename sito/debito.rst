@@ -24,3 +24,5 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 4   | 05/12 | * **SC**: *dal n.38 al n.40* `Pozzoli primo corso` |
     |     |       | * **SR**: *ritmico 3*                              |
     +-----+-------+----------------------------------------------------+
+    | 5   | 12/12 | * **SC**: *dal n.48 al n.51* `Pozzoli primo corso` |
+    +-----+-------+----------------------------------------------------+
