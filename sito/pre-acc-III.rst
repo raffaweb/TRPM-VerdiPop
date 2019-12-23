@@ -33,3 +33,6 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *n.5* `Poltronieri secondo corso - due voci`                              |
     |     |       | * **extra**: studia gli abbellimenti e spiegali                                     |
     +-----+-------+-------------------------------------------------------------------------------------+
+    | 6   | 18/12 | * **SP**: *n.28,29,30* `Poltronieri secondo corso` (da pag.49)                      |
+    |     |       | * **SC**: *n.6,7* `Poltronieri secondo corso - due voci`                            |
+    +-----+-------+-------------------------------------------------------------------------------------+
