@@ -39,6 +39,11 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *n.8,9,10* `Pozzoli due voci`                                                                                |
     |     |       | * **SP**: *n.1* `Appendice al terzo corso`                                                                             |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
+    | 9   | 19/12 | * **SP**: *n.1* `Appendice al terzo corso`                                                                             |
+    |     |       | * **SP**: *n.2,4,5,6* `Poltronieri secondo corso (pag.49)`                                                             |
+    |     |       | * **SC**: *n.8,9,10* `Pozzoli due voci`                                                                                |
+    |     |       | * **SC**: *n.3,4* `Poltronieri II corso`                                                                               |
+    +-----+-------+------------------------------------------------------------------------------------------------------------------------+
 
 .. admonition:: Nota bene
    :class: alert alert-secondary
