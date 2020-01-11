@@ -36,3 +36,9 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 6   | 18/12 | * **SP**: *n.28,29,30* `Poltronieri secondo corso` (da pag.49)                      |
     |     |       | * **SC**: *n.6,7* `Poltronieri secondo corso - due voci`                            |
     +-----+-------+-------------------------------------------------------------------------------------+
+    | 7   | 08/01 | * studiare abbellimenti                                                             |
+    |     |       | * **SP**: *n.1* `Pedron`                                                            |
+    |     |       | * **SP setticlavio**: *n.1* `Pedron`                                                |
+    |     |       | * **SC**: *n.1* `Pedron`                                                            |
+    |     |       | * **SC trasporto**: *n.1* `Pedron`                                                  |
+    +-----+-------+-------------------------------------------------------------------------------------+

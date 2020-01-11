@@ -29,3 +29,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SP**: *da 13 a 20* `Pozzoli primo corso`                |
     |     |       | * **SC**: *da 10 a 20* `Pozzoli primo corso`                |
     +-----+-------+-------------------------------------------------------------+
+    | 7   | 08/01 | * *da pag.20 a pag.27* del libro `Ciriaco - Grafia e ritmo` |
+    |     |       | * **SP**: *n.21,22* `Pozzoli primo corso`                   |
+    |     |       | * **SC**: *n.22,23,26,30,31* `Pozzoli primo corso`          |
+    +-----+-------+-------------------------------------------------------------+

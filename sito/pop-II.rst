@@ -44,6 +44,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *n.8,9,10* `Pozzoli due voci`                                                                                |
     |     |       | * **SC**: *n.3,4* `Poltronieri II corso`                                                                               |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
+    
 
 .. admonition:: Nota bene
    :class: alert alert-secondary
