@@ -32,3 +32,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 6   | 19/12 | * **SC**: *dal n.50 al n.60* `Pozzoli primo corso`         |
     |     |       | * **SP**: *n.24, 30, 33, 34, 53* `Poltronieri primo corso` |
     +-----+-------+------------------------------------------------------------+
+    | 7   | 09/01 | * **SP**: *n.56,59,61* `Poltronieri primo corso`           |
+    |     |       | * **SC**: *dal n.1,2* `Poltronieri primo corso`            |
+    +-----+-------+------------------------------------------------------------+
+    
