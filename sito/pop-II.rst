@@ -48,6 +48,9 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *n.8,9,10* `Pozzoli due voci`                                                                                |
     |     |       | * **SC**: *n.8,9* `Poltronieri II corso`                                                                               |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
+    | 11  | 16/01 | * **SP**: *n.10,13,15,17,25* `Poltronieri secondo corso (pag.49)`                                                      |
+    |     |       | * n.26 `Corale Bach`                                                                                                   |
+    +-----+-------+------------------------------------------------------------------------------------------------------------------------+
 
 .. admonition:: Nota bene
    :class: alert alert-secondary

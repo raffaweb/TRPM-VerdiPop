@@ -37,3 +37,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SP**: *46,47* `Pozzoli secondo corso`                   |
     |     |       | * ripasso intervalli + esericizi dettato ritmico e melodico |
     +-----+-------+-------------------------------------------------------------+
+    | 8   | 15/01 | * **SP**: *45,46* `Pozzoli secondo corso`                   |
+    |     |       | * **SP**: *n.1 e 4* `Poltronieri secondo corso`             |
+    |     |       | * **SC**: *n.6,7,8,9* `Pozzoli secondo corso`               |
+    +-----+-------+-------------------------------------------------------------+

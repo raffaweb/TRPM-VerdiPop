@@ -33,3 +33,5 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SP**: *n.21,22* `Pozzoli primo corso`                   |
     |     |       | * **SC**: *n.22,23,26,30,31* `Pozzoli primo corso`          |
     +-----+-------+-------------------------------------------------------------+
+    | 8   | 15/01 | Quelli della lezione precedente                             |
+    +-----+-------+-------------------------------------------------------------+

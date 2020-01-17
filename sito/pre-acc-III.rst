@@ -42,3 +42,8 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *n.1* `Pedron`                                                            |
     |     |       | * **SC trasporto**: *n.1* `Pedron`                                                  |
     +-----+-------+-------------------------------------------------------------------------------------+
+    | 8   | 15/01 | * **SP**: *n.1* `Pedron`                                                            |
+    |     |       | * **SP setticlavio**: *n.1* `Pedron`                                                |
+    |     |       | * **SC**: *n.1,2* `Pedron`                                                          |
+    |     |       | * **SC trasporto**: *n.1* `Pedron`                                                  |
+    +-----+-------+-------------------------------------------------------------------------------------+

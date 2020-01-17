@@ -28,3 +28,5 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SP**: *da 57 a 60* `Pozzoli primo corso`                                                                      |
     |     |       | * Studiare intervalli + ripasso circolo quinte                                                                    |
     +-----+-------+-------------------------------------------------------------------------------------------------------------------+
+    | 8   | 15/01 | * **SC**: *da 50 a 60* `Pozzoli primo corso`                                                                      |
+    +-----+-------+-------------------------------------------------------------------------------------------------------------------+

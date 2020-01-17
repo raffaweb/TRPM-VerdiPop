@@ -35,4 +35,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 7   | 09/01 | * **SP**: *n.56,59,61* `Poltronieri primo corso`           |
     |     |       | * **SC**: *dal n.1,2* `Poltronieri primo corso`            |
     +-----+-------+------------------------------------------------------------+
+    | 8   | 16/01 | * **SP**: *n.60,62,65* `Poltronieri primo corso`           |
+    |     |       | * **SC**: *dal n.46,47,48,55* `Poltronieri primo corso`    |
+    +-----+-------+------------------------------------------------------------+
     
