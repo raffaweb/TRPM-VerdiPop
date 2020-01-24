@@ -32,3 +32,6 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     +-----+-------+----------------------------------------------------+
     | 8   | 16/01 | * n.26,27 `Corale Bach`                            |
     +-----+-------+----------------------------------------------------+
+    | 9   | 23/01 | * **SC**: *dal n.37 al n.40* `Pozzoli primo corso` |
+    |     |       | * **SP**: *dal n.20 al n.25* `Pozzoli primo corso` |
+    +-----+-------+----------------------------------------------------+

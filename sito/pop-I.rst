@@ -38,4 +38,5 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 8   | 16/01 | * **SP**: *n.60,62,65* `Poltronieri primo corso`           |
     |     |       | * **SC**: *dal n.46,47,48,55* `Poltronieri primo corso`    |
     +-----+-------+------------------------------------------------------------+
-    
+    | 9   | 23/01 | * Come la lezione n.8                                      |
+    +-----+-------+------------------------------------------------------------+

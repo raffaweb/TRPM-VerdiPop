@@ -51,6 +51,8 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 11  | 16/01 | * **SP**: *n.10,13,15,17,25* `Poltronieri secondo corso (pag.49)`                                                      |
     |     |       | * n.26 `Corale Bach`                                                                                                   |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
+    | 12  | 23/01 | * Come la lezione n.11                                                                                                 |
+    +-----+-------+------------------------------------------------------------------------------------------------------------------------+
 
 .. admonition:: Nota bene
    :class: alert alert-secondary
