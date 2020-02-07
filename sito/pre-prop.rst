@@ -33,10 +33,14 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SP**: *n.21,22* `Pozzoli primo corso`                   |
     |     |       | * **SC**: *n.22,23,26,30,31* `Pozzoli primo corso`          |
     +-----+-------+-------------------------------------------------------------+
-    | 8   | 15/01 | Quelli della lezione precedente                             |
+    | 8   | 15/01 | Come lezione n.7                                            |
     +-----+-------+-------------------------------------------------------------+
     | 9   | 22/01 | * **SP**: *dal n.25 al n.30* `Pozzoli primo corso`          |
     |     |       | * **SC**: *dal n.30 al n.35* `Pozzoli primo corso`          |
     +-----+-------+-------------------------------------------------------------+
     | 10  | 29/01 | Come lezione n.9                                            |
+    +-----+-------+-------------------------------------------------------------+
+    | 11  | 07/02 | * **SP**: *dal n.32 al n.35* `Pozzoli primo corso`          |
+    |     |       | * **SC**: *dal n.38 al n.40* `Pozzoli primo corso`          |
+    |     |       | * *da pag.31 a pag.58* del libro `Ciriaco - Grafia e ritmo` |
     +-----+-------+-------------------------------------------------------------+

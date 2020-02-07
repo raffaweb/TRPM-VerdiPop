@@ -47,3 +47,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 10  | 29/01 | * **SC**: *n.2,3* `Poltronieri secondo corso`                 |
     |     |       | * **SP**: *da n.1 a n.5* `Poltronieri secondo corso (pag.49)` |
     +-----+-------+---------------------------------------------------------------+
+    | 11  | 05/02 | * **SC**: *n.2,3,4* `Poltronieri secondo corso`               |
+    |     |       | * **SC**: *n.56* `Poltronieri primo corso`                    |
+    |     |       | * **SP**: *3,4* `Poltronieri secondo corso (pag.49)`          |
+    +-----+-------+---------------------------------------------------------------+

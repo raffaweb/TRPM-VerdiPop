@@ -44,3 +44,9 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *dal n.56,57* `Poltronieri primo corso`                         |
     |     |       | * **SC**: Esercizio 'formula tonale' di pag. 92 `Poltronieri primo corso` |
     +-----+-------+---------------------------------------------------------------------------+
+    | 11  | 06/02 | * **SP**: *n.69,70* `Poltronieri primo corso`                             |
+    |     |       | * **SP-debito**: *dal n.12 al n.15* `Pozzoli primo corso`                 |
+    |     |       | * **SC-debito**: *n.34,47,48,49* `Pozzoli primo corso`                    |
+    +-----+-------+---------------------------------------------------------------------------+
+
+

@@ -58,3 +58,5 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC trasporto**: *n.3* `Pedron`                                                       |
     |     |       | * Fare il trasporto scritto 1 tono sopra e 1 tono sotto del n.1 del Pedron dei trasporti |
     +-----+-------+------------------------------------------------------------------------------------------+
+    | 11  | 05/02 | * Come lezione n.10                                                                      |
+    +-----+-------+------------------------------------------------------------------------------------------+
