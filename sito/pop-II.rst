@@ -56,17 +56,11 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 13  | 30/01 | * Come la lezione n.11                                                                                                 |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
     | 14  | 06/02 | * **SP**: *n.27, 28* `Poltronieri secondo corso (pag.49)`                                                              |
-    |     |       | * **SC**: *n.1* `due voci - Poltronieri secondo corso `                                                                |
+    |     |       | * **SC**: *n.1* `due voci - Poltronieri secondo corso`                                                                 |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
-    
-
-
-    
-
 
 .. admonition:: Nota bene
    :class: alert alert-secondary
 
    I numeri di lezione all'interno di parentesi quadre sono delle lezioni
    extra che non fanno parte del monte ore dell'A.A. 2019/2020.
-   
