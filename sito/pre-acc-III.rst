@@ -65,3 +65,10 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *da n.1 a 4* `Pedron`                                                          |
     |     |       | * **SC trasporto**: *da n.1 a 4* `Pedron`                                                |
     +-----+-------+------------------------------------------------------------------------------------------+
+    | 13  | 25/03 | * **SP**: *n.5* `Pedron`                                                                 |
+    |     |       | * **SP setticlavio**: *n.5* `Pedron`                                                     |
+    |     |       | * **SC**: *n.4* `Pedron`                                                                 |
+    |     |       | * **SC**: *n.4* `Pedron`                                                                 |
+    |     |       | * **SC trasporto**: *n.4* `Pedron`                                                       |
+    |     |       | * dettati (ancora da caricare sulla cartella drive                                       |
+    +-----+-------+------------------------------------------------------------------------------------------+
