@@ -59,7 +59,7 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *n.1* `due voci - Poltronieri secondo corso`                                                                 |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
     | 15  | 25/03 | * **SP**: *n.27, 28, 29* `Poltronieri secondo corso (pag.49)`                                                          |
-    |     |       | * **SC**: *n.8,9* `Poltronieri II corso`                                                                               |
+    |     |       | * **SC**: *n.1* `Poltronieri II corso`                                                                                 |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
 
 
