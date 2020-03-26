@@ -43,6 +43,6 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 12  | 11/02 | * **SP**: *n.62,63,68,70,71,72* `Poltronieri primo corso`                                                         |
     |     |       | * **SC**: *da n.58 a 62* `Poltronieri primo corso`                                                                |
     +-----+-------+-------------------------------------------------------------------------------------------------------------------+
-    | 13  | 25/03 | * **SP**: * da n.68 a 72* `Poltronieri primo corso`                                                               |
+    | 13  | 25/03 | * **SP**: *da n.68 a 72* `Poltronieri primo corso`                                                                |
     |     |       | * **SC**: *n.63,64* `Poltronieri primo corso`                                                                     |
     +-----+-------+-------------------------------------------------------------------------------------------------------------------+
