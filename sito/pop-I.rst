@@ -48,5 +48,11 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SP-debito**: *dal n.12 al n.15* `Pozzoli primo corso`                 |
     |     |       | * **SC-debito**: *n.34,47,48,49* `Pozzoli primo corso`                    |
     +-----+-------+---------------------------------------------------------------------------+
-
+    | 12  | 26/03 | * Normale                                                                 |
+    |     |       | * **SP**: *n.43,44,45* `Pozzoli primo corso`                              |
+    |     |       | * **SC**: *n.1,2,3* `Poltronieri primo corso`                             |
+    |     |       | * Avanzato                                                                |
+    |     |       | * **SP**: *n.71,72* `Poltronieri primo corso`                             |
+    |     |       | * **SC**: *un po' a prima vista random*                                   |
+    +-----+-------+---------------------------------------------------------------------------+
 
