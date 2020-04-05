@@ -59,9 +59,11 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *n.1* `due voci - Poltronieri secondo corso`                                                                 |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
     | 15  | 25/03 | * **SP**: *n.27, 28, 29* `Poltronieri secondo corso (pag.49)`                                                          |
-    |     |       | * **SC**: *n.1* `Poltronieri II corso`                                                                                 |
+    |     |       | * **SC**: *n.1* `Poltronieri secondo corso`                                                                            |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
-
+    | 16  | 02/04 | * **SP**: *n.28, 29, 30* `Poltronieri secondo corso (pag.49)`                                                          |
+    |     |       | * **SC**: da fare in coppia uno dei cantati due voci del `Poltronieri secondo corso`                                   |
+    +-----+-------+------------------------------------------------------------------------------------------------------------------------+
 
 .. admonition:: Nota bene
    :class: alert alert-secondary
