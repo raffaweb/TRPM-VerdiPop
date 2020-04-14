@@ -64,6 +64,11 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 16  | 02/04 | * **SP**: *n.28, 29, 30* `Poltronieri secondo corso (pag.49)`                                                          |
     |     |       | * **SC**: da fare in coppia uno dei cantati due voci del `Poltronieri secondo corso`                                   |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
+    | 17  | 09/04 | * **SP**: *finire quelli del* `Poltronieri secondo corso`                                                              |
+    |     |       | * **SC**: trovare qualcosa da fare in coppia                                                                           |
+    |     |       | * **SR**: trovare qualcosa da fare in coppia                                                                           |
+    +-----+-------+------------------------------------------------------------------------------------------------------------------------+
+
 
 .. admonition:: Nota bene
    :class: alert alert-secondary
