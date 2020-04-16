@@ -66,5 +66,16 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SP**: *n.44,45* `Pozzoli primo corso`                                                                                   |
     |     |       | * **SC**: *n.70* `Poltronieri primo corso`                                                                                  |
     |     |       | * Avanzato                                                                                                                  |
-    |     |       | * **SP**: *n.1* `Poltronieri II corso (pag. 49)`                                                                            |
+    |     |       | * **SP**: *n.1* `Poltronieri secondo corso (pag. 49)`                                                                       |
     +-----+-------+-----------------------------------------------------------------------------------------------------------------------------+
+    | 15  | 16/04 | * Normale                                                                                                                   |
+    |     |       | * **SP**: *dal n.46 al n.50* `Pozzoli primo corso`                                                                          |
+    |     |       | * **SC**: *dal n.10 al n.20* `Pozzoli primo corso`                                                                          |
+    |     |       | * Avanzato                                                                                                                  |
+    |     |       | * **SP**: *n.1,2* `Poltronieri secondo corso (pag. 49)`                                                                     |
+    |     |       | * **SC**: *n.1,2* `Poltronieri secondo corso`                                                                               |
+    |     |       | * **SC**: *n.47* `Pozzoli primo corso`                                                                                      |
+    |     |       | * **SC**: *trasporto un tono sopra e sotto* *n.7,8* `Pozzoli primo corso`                                                   |
+    +-----+-------+-----------------------------------------------------------------------------------------------------------------------------+
+
+
