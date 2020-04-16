@@ -71,10 +71,14 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC trasporto**: *n.4* `Pedron`                                                       |
     |     |       | * dettati Pedron 3,4 (ancora da caricare sulla cartella drive)                           |
     +-----+-------+------------------------------------------------------------------------------------------+
-    | 14  | 02/04 | * **SP**: *n.5* `Pedron`                                                                 |
-    |     |       | * **SP setticlavio**: *n.5* `Pedron`                                                     |
+    | 14  | 02/04 | * **SP**: *n.6* `Pedron`                                                                 |
+    |     |       | * **SP setticlavio**: *n.6* `Pedron`                                                     |
     |     |       | * **SC**: *n.5* `Pedron`                                                                 |
     |     |       | * **SC trasporto**: *n.5* `Pedron`                                                       |
     |     |       | * dettati Pedron 5,6,7                                                                   |
     +-----+-------+------------------------------------------------------------------------------------------+
-
+    | 15  | 09/04 | * **SP**: *n.6* `Pedron`                                                                 |
+    |     |       | * **SP setticlavio**: *n.6* `Pedron`                                                     |
+    |     |       | * **SC**: *n.5* `Pedron`                                                                 |
+    |     |       | * **SC trasporto**: *n.5* `Pedron`                                                       |
+    +-----+-------+------------------------------------------------------------------------------------------+
