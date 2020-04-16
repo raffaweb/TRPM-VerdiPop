@@ -62,4 +62,9 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * Avanzato:                                                                                                                 |
     |     |       | * **SC**: *dal n.58,59,60* `Poltronieri primo corso`                                                                        |
     +-----+-------+-----------------------------------------------------------------------------------------------------------------------------+
-
+    | 14  | 09/04 | * Normale                                                                                                                   |
+    |     |       | * **SP**: *n.44,45* `Pozzoli primo corso`                                                                                   |
+    |     |       | * **SC**: *n.70* `Poltronieri primo corso`                                                                                  |
+    |     |       | * Avanzato                                                                                                                  |
+    |     |       | * **SP**: *n.1* `Poltronieri II corso (pag. 49)`                                                                            |
+    +-----+-------+-----------------------------------------------------------------------------------------------------------------------------+

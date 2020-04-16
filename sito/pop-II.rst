@@ -68,6 +68,10 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: trovare qualcosa da fare in coppia                                                                           |
     |     |       | * **SR**: trovare qualcosa da fare in coppia                                                                           |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
+    | 18  | 16/04 | * **SP**: *finire (e stavolta per davvero) quelli del* `Poltronieri secondo corso`                                     |
+    |     |       | * **SC**: trovare qualcosa da fare in coppia o più e inviare la rec a luca.lombardo@consmilano.it                      |
+    |     |       | * **SR**: trovare qualcosa da fare in coppia o più  e inviare la rec a luca.lombardo@consmilano.it                     |
+    +-----+-------+------------------------------------------------------------------------------------------------------------------------+
 
 
 .. admonition:: Nota bene
