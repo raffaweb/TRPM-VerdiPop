@@ -44,3 +44,6 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     |     |       | * **SC**: *dal n.38 al n.40* `Pozzoli primo corso`          |
     |     |       | * *da pag.31 a pag.58* del libro `Ciriaco - Grafia e ritmo` |
     +-----+-------+-------------------------------------------------------------+
+    | 12  | 09/04 | * **SP**: *fino al n.45* `Pozzoli primo corso`              |
+    |     |       | * **SC**: *fino al n.45* `Pozzoli primo corso`              |
+    +-----+-------+-------------------------------------------------------------+
