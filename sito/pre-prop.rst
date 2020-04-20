@@ -47,3 +47,6 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 12  | 09/04 | * **SP**: *fino al n.45* `Pozzoli primo corso`              |
     |     |       | * **SC**: *fino al n.45* `Pozzoli primo corso`              |
     +-----+-------+-------------------------------------------------------------+
+    | 13  | 17/04 | * **SP**: *dal n.48 al n.51* `Pozzoli primo corso`          |
+    |     |       | * **SC**: *dal n.46 al n.50* `Pozzoli primo corso`          |
+    +-----+-------+-------------------------------------------------------------+
