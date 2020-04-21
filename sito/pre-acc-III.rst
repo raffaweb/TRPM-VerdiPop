@@ -85,5 +85,5 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 16  | 17/04 | * **SP**: *n.7* `Pedron`                                                                 |
     |     |       | * **SP setticlavio**: *n.7* `Pedron`                                                     |
     |     |       | * **SC**: *n.6* `Pedron`                                                                 |
-    |     |       | * **SC trasporto**: *n.5* `Pedron` un tono sotto                                         |
+    |     |       | * **SC trasporto**: *n.5* `Pedron` un tono sotto + *n.6 e precedenti*                    |
     +-----+-------+------------------------------------------------------------------------------------------+    
