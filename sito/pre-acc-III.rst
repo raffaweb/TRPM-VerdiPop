@@ -90,7 +90,13 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 16  | 22/04 | * **SP**: *n.7* `Pedron`                                                                 |
     |     |       | * **SP setticlavio**: *n.7* `Pedron`                                                     |
     |     |       | * **SC**: *n.6,7* `Pedron`                                                               |
-    |     |       | * **SC trasporto**: *n.6,7*                                                              |
+    |     |       | * **SC trasporto**: *n.6,7* `Pedron`                                                     |
     +-----+-------+------------------------------------------------------------------------------------------+
+    | 17  | 29/04 | * **SP**: *n.8* `Pedron`                                                                 |
+    |     |       | * **SP setticlavio**: *n.8* `Pedron`                                                     |
+    |     |       | * **SC**: *n.7* `Pedron`                                                                 |
+    |     |       | * **SC trasporto**: *n.7*  `Pedron`                                                      |
+    +-----+-------+------------------------------------------------------------------------------------------+
+
 
 
