@@ -75,6 +75,9 @@ Per il materiale non appartenente a nessun libro leggere la sezione :doc:`inform
     | 20  | 30/04 | * **SP**: *n.24,25,26,30* `Poltronieri secondo corso`                                                                  |
     |     |       | * **SC**: continuare ad esercitarsi da soli e in coppia                                                                |
     +-----+-------+------------------------------------------------------------------------------------------------------------------------+
+    | 22  | 14/05 | * **SP**: *dal n.1 al n.30* `Poltronieri secondo corso`                                                                |
+    |     |       | * **SC**: scegliere 5 solfeggi tra il n.1 e il n.20 del `Poltronieri secondo corso`                                    |
+    +-----+-------+------------------------------------------------------------------------------------------------------------------------+
     
 
 
